@@ -1,4 +1,4 @@
-# createDraftsAppsScript project
+# CreateDraftsAppsScript project
 
 This Google Apps Script project creates email drafts in Gmail using data from a Google Sheet and content from a Google Doc. The script supports various text formatting options and allows for the inclusion of special characters and variables in the email content.
 
